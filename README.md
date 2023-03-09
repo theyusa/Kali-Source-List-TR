@@ -1,5 +1,3 @@
 # Kali-Turkey-Auto-Repo
-Sadece çalıştırın
-
-bash 
-./
+1. chmod +x sourcelist
+2. bash sourcelist.sh or ./sourcelist.sh

@@ -3,9 +3,8 @@
 
 Bu basit Bash betiği, Kali Linux'un kaynak listesini güncellemek ve sistem paketlerini yükseltmek için kullanılır.
 
-deb http://kali.download/kali kali-last-snapshot main contrib non-free non-free-firmware
-deb http://kali.download/kali kali-rolling main contrib non-free non-free-firmware
-
+Mirror List
+https://http.kali.org/README?mirrorlist
 
 ## Kullanım
 
